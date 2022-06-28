@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>artistName</key>
+	<string>毛泽东</string>
+	<key>book-info</key>
+	<dict>
+		<key>cover-image-hash</key>
+		<string>0E2676D54A2A7684F00DD8DA3CE0E5A8</string>
+		<key>cover-image-path</key>
+		<string>OEBPS/Images/cover.jpg</string>
+		<key>mime-type</key>
+		<string>application/epub+zip</string>
+		<key>package-file-hash</key>
+		<string>591AC1A337861FEF5BE648A8C82ADEB6</string>
+		<key>publisher-unique-id</key>
+		<string>urn:uuid:65f72ef6-1b0e-4d14-95f4-9f5a31fc40ef</string>
+		<key>unique-id</key>
+		<integer>3086437663200843456</integer>
+		<key>update-level</key>
+		<integer>2</integer>
+	</dict>
+	<key>itemName</key>
+	<string>毛泽东选集</string>
+	<key>playlistName</key>
+	<string>毛泽东选集</string>
+	<key>releaseDate</key>
+	<string>2019-07-07</string>
+</dict>
+</plist>
